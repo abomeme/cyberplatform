@@ -1,0 +1,6 @@
+{
+  "name": "Cyber Academy",
+  "description": "منصة عربية احترافية لتعليم الأمن السيبراني والاختبار الأمني الأخلاقي مع معامل تفاعلية واختبارات وتتبع تقدم",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
